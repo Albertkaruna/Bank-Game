@@ -1,0 +1,946 @@
+fileFormatVersion: 2
+guid: bd42e195478b36c4c9b4f7c772cc495b
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: bank-bg_0000_Layer-13_0
+    21300002: bank-bg_0000_Layer-13_1
+    21300004: bank-bg_0000_Layer-13_2
+    21300006: bank-bg_0000_Layer-13_3
+    21300008: bank-bg_0000_Layer-13_4
+    21300010: bank-bg_0000_Layer-13_5
+    21300012: bank-bg_0000_Layer-13_6
+    21300014: bank-bg_0000_Layer-13_7
+    21300016: bank-bg_0000_Layer-13_8
+    21300018: bank-bg_0000_Layer-13_9
+    21300020: bank-bg_0000_Layer-13_10
+    21300022: bank-bg_0000_Layer-13_11
+    21300024: bank-bg_0000_Layer-13_12
+    21300026: bank-bg_0000_Layer-13_13
+    21300028: bank-bg_0000_Layer-13_14
+    21300030: bank-bg_0000_Layer-13_15
+    21300032: bank-bg_0000_Layer-13_16
+    21300034: bank-bg_0000_Layer-13_17
+    21300036: bank-bg_0000_Layer-13_18
+    21300038: bank-bg_0000_Layer-13_19
+    21300040: bank-bg_0000_Layer-13_20
+    21300042: bank-bg_0000_Layer-13_21
+    21300044: bank-bg_0000_Layer-13_22
+    21300046: bank-bg_0000_Layer-13_23
+    21300048: bank-bg_0000_Layer-13_24
+    21300050: bank-bg_0000_Layer-13_25
+    21300052: bank-bg_0000_Layer-13_26
+    21300054: bank-bg_0000_Layer-13_27
+    21300056: bank-bg_0000_Layer-13_28
+    21300058: bank-bg_0000_Layer-13_29
+    21300060: bank-bg_0000_Layer-13_30
+    21300062: bank-bg_0000_Layer-13_31
+    21300064: bank-bg_0000_Layer-13_32
+    21300066: bank-bg_0000_Layer-13_33
+    21300068: bank-bg_0000_Layer-13_34
+    21300070: bank-bg_0000_Layer-13_35
+    21300072: bank-bg_0000_Layer-13_36
+    21300074: bank-bg_0000_Layer-13_37
+    21300076: bank-bg_0000_Layer-13_38
+    21300078: bank-bg_0000_Layer-13_39
+  externalObjects: {}
+  serializedVersion: 5
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: bank-bg_0000_Layer-13_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 221
+        width: 56
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d678c20096f08274ab4448025301d8bb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bank-bg_0000_Layer-13_1
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 220
+        width: 56
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2b9f95c13a2f6342a5dc94d78913528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bank-bg_0000_Layer-13_2
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 220
+        width: 56
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae6e0fb826e14b74b8b3113a5ab60384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bank-bg_0000_Layer-13_3
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 220
+        width: 56
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e451a2e2714bd424bb4ae3a23c5d4dfb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bank-bg_0000_Layer-13_4
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 220
+        width: 56
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee909144ec7d2c54cbdfb6dd1e38253a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bank-bg_0000_Layer-13_5
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 220
+        width: 56
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea05eb7bf2e760f48b7e18459f64c1d5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bank-bg_0000_Layer-13_6
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 220
+        width: 56
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1661a9b2677f0f4428f0a3bee3f3826b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bank-bg_0000_Layer-13_7
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 221
+        width: 56
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2690df23539072443aec236c34317807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bank-bg_0000_Layer-13_8
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 220
+        width: 56
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e91ed7ed539eaf44b1547aafcbd6afc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bank-bg_0000_Layer-13_9
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 221
+        width: 56
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28820c9b32f3fff449a1ddcf2a61359d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bank-bg_0000_Layer-13_10
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 153
+        width: 56
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48405d2d0257ad547a39c3a690c200bc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bank-bg_0000_Layer-13_11
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 152
+        width: 56
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27c9dfd0457248244833275e5cc19afd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bank-bg_0000_Layer-13_12
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 152
+        width: 56
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58557177c35c55445a73a29cc055180e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bank-bg_0000_Layer-13_13
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 152
+        width: 56
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8789f5be481a8b748be74a94861fc966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bank-bg_0000_Layer-13_14
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 151
+        width: 56
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7391bce38fec6244aa988de36a5b3ef4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bank-bg_0000_Layer-13_15
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 151
+        width: 56
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7392bffa779a6e64cafc863dd99209d1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bank-bg_0000_Layer-13_16
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 153
+        width: 56
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd345b5812c753044ae6a6a90759fdb8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bank-bg_0000_Layer-13_17
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 152
+        width: 56
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22bfee4ef02094a498060ba53e81ff35
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bank-bg_0000_Layer-13_18
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 151
+        width: 56
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11b5be3be37f22640b5d85b3d71975b4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bank-bg_0000_Layer-13_19
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 153
+        width: 56
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17b1c6fa421f3e645b0858e2c21ec3aa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bank-bg_0000_Layer-13_20
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 84
+        width: 56
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe91dfff9f096ce4f8fffabe52d4c1c5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bank-bg_0000_Layer-13_21
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 84
+        width: 56
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dcdae6236b87bd4ba662dab284371e6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bank-bg_0000_Layer-13_22
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 84
+        width: 56
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aeb47ea8e54f9ab4498d0832fed0f4f1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bank-bg_0000_Layer-13_23
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 83
+        width: 56
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31b0b97f0c8be9840803ec04f615f78b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bank-bg_0000_Layer-13_24
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 85
+        width: 56
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca2ee72f4dbca3141adf97d44e434812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bank-bg_0000_Layer-13_25
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 84
+        width: 56
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61a7d0fbb04989c48bae285aae1a0d80
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bank-bg_0000_Layer-13_26
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 84
+        width: 56
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8aff6fcbe83a7a4c86db5523472d914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bank-bg_0000_Layer-13_27
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 84
+        width: 54
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da25fcffd0d271849ad9e8dafbf49d47
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bank-bg_0000_Layer-13_28
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 85
+        width: 54
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dead9ce071cf5254caa7acdfdf7b623c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bank-bg_0000_Layer-13_29
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 18
+        width: 54
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddd6fb1809fd52d42a12037d15d9b27f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bank-bg_0000_Layer-13_30
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 17
+        width: 54
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e01021a6bc8b2574284c2d80969ba75d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bank-bg_0000_Layer-13_31
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 17
+        width: 54
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e8932423b5a2254f94828ab39b590de
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bank-bg_0000_Layer-13_32
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 18
+        width: 54
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9aaff368c748b6a4f8fea446c972c4c9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bank-bg_0000_Layer-13_33
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 17
+        width: 54
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 140d9740102f1ac4ba6ff2126d9b7970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bank-bg_0000_Layer-13_34
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 17
+        width: 54
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66c204af1172ca545b52cfefc92909b0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bank-bg_0000_Layer-13_35
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 18
+        width: 54
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68725f38e33610d4db0d161106596781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bank-bg_0000_Layer-13_36
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 19
+        width: 54
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa4dd91ee20c73e4dbb48f4af4dc6e4d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bank-bg_0000_Layer-13_37
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 220
+        width: 107
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 144f3d3b4709ac94180994b053d63d74
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bank-bg_0000_Layer-13_38
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 19
+        width: 170
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a62d6a14f1953694cad936f9986084d3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bank-bg_0000_Layer-13_39
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 87
+        width: 85
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7560e6f7a1c7d564d9b1f8dd83334a26
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: f4d64d6da5903ba43b80f3fc8ee49b7b
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
