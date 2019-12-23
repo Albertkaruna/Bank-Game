@@ -3,7 +3,7 @@
 Made with Unity 3D 
 
 
-![Alt text](/Static/bankgame1.jpg?raw=true "Bank Game")
-![Alt text](/Static/bankgame2.jpg?raw=true "Bank Game")
-![Alt text](/Static/bankgame3.jpg?raw=true "Bank Game")
-![Alt text](/Static/bankgame4.jpg?raw=true "Bank Game")
+![Alt text](/Static/bankgame1.JPG?raw=true "Bank Game")
+![Alt text](/Static/bankgame2.JPG?raw=true "Bank Game")
+![Alt text](/Static/bankgame3.JPG?raw=true "Bank Game")
+![Alt text](/Static/bankgame4.JPG?raw=true "Bank Game")
